@@ -11,6 +11,7 @@ namespace MyGitProgram
         static void Main(string[] args)
         {
             Console.WriteLine("This is Main.");
+            Console.ReadKey();
         }
     }
 }
